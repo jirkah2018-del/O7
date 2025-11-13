@@ -1,0 +1,27 @@
+h1{
+	color: red;
+	font-size: 40px;
+	font-weight: normal;
+	font-family: "Times New Roman", Arial, Helvetica;
+}
+
+h2{
+	color: skyblue;
+	font-weight: bolt;
+	font-family: Calibri, Arial, Helvetica;
+}
+
+p{
+	color: green;
+	font-weight: 400;
+	background:rgba(220, 205, 38, 0.2);
+}
+
+	a{
+	color: green;
+	font-weight: bolt;
+	font-family: Calibri, Arial, Helvetica;
+	text-align: right;
+}
+
+
